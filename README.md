@@ -13,4 +13,4 @@ The Mate Processor Card is designed for signal acquisition, processing, and comm
 - **Power Management**: Dedicated power module generating multiple voltage levels for test operations.
 
 ---
-The repository includes a **Proteus Design Suite project file (`mate_processor_card.pdsprj`)** for the PCB design of the Mate Processor Card design.
+The repository includes a **Proteus Design Suite project file (`MATE_PCB_MB_V4.0.pdsprj`)** for the PCB design of the Mate Processor Card design.
